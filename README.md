@@ -1,6 +1,6 @@
 # D197 Version Control
 
-
+## Git version 2.39.5
 
 ## Getting started
 
