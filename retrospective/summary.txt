@@ -1,0 +1,2 @@
+1. The merge conflict in E1 for the README.md file was resolved by removing the markers in the file that showed the conflict and saving the file for the merge
+2. The 3 changes I made in part C1 was for the files index.html, about.html, and contact.html. I updated each file with my name, Yero.
